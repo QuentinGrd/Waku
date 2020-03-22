@@ -1,6 +1,11 @@
-# Projet Waku
-Description du projet - TEST BIS
+# PROJET WAKÜ
 
-Modification de Laura
-Hello guys !
-Modification sarah je sais pas si ça va fonctionner mais bon 
+## DESCRIPTION DU PROJET
+Wakü est une marque de vêtement recyclé / recyclable. La création de notre marque écolo-responsable s'inscrit dans nos valeurs. Notre génération est de plus en plus actrice de l'écologie, mais ne sait pas forcément comment avoir un réel impact. En créant une marque streetwear, nous proposons des vêtements inspiré par la mode du moment et permettre à nos clients d'être des consommacteurs.
+
+## EQUIPE DU PROJET
+* GODEFROI Sarah
+* LAUSDAT Victoire
+* NYS Laura
+* PERRAUT Romain
+* GIRAUD Quentin
