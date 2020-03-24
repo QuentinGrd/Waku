@@ -12,3 +12,7 @@ Blanc : #ffffff
 #titre-cta {
   text-align: left;
 }
+ #myVideo {
+  max-width: 100%;
+  height: auto;
+}
