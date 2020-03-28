@@ -16,3 +16,8 @@ Blanc : #ffffff
   max-width: 100%;
   height: auto;
 }
+.ftco-counter, div.text strong.number, div.text span{
+  color: #ffffff!important;
+  font-weight: bold;
+  font-size: 15px;
+}
