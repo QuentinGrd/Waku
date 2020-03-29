@@ -16,6 +16,11 @@ Blanc : #ffffff
   max-width: 100%;
   height: auto;
 }
+#myVideoBis {
+ max-width: 100%;
+ height: auto;
+ margin-top: 6em;
+}
 .ftco-counter, div.text strong.number, div.text span{
   color: #ffffff!important;
   font-weight: bold;
