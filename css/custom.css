@@ -29,3 +29,7 @@ Blanc : #ffffff
 div #imageRecyclage {
   background-size: contain;
 }
+div.hero-wrap.overlay {
+    opacity: O.2 !important;
+    background: #ffffff!important;
+        }
