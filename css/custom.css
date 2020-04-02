@@ -29,3 +29,30 @@ Blanc : #ffffff
 div #imageRecyclage {
   background-size: contain;
 }
+div.hero-wrap.overlay {
+    opacity: O.2 !important;
+    background: #ffffff!important;
+        }
+.ftco-footer {
+  font-size: 16px;
+  padding: 2em 0;
+  color: #000000; }
+  .ftco-footer .ftco-footer-logo {
+    text-transform: uppercase;
+    letter-spacing: .1em; }
+  .ftco-footer .ftco-footer-widget h2 {
+    font-weight: normal;
+    margin-bottom: 20px;
+    font-size: 13px;
+    font-weight: 400;
+    text-transform: uppercase;
+    letter-spacing: 3px; }
+  .ftco-footer .ftco-footer-widget ul li {
+    font-size: 14px;
+    margin-bottom: 24px; }
+    .ftco-footer .ftco-footer-widget ul li a {
+      color: #000000; }
+  .ftco-footer .ftco-footer-widget .btn-primary {
+    border: 2px solid #fff !important; }
+    .ftco-footer .ftco-footer-widget .btn-primary:hover {
+      border: 2px solid #fff !important; }
