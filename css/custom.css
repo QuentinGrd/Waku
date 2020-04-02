@@ -29,10 +29,35 @@ Blanc : #ffffff
 div #imageRecyclage {
   background-size: contain;
 }
-div.hero-wrap.overlay {
-    opacity: O.2 !important;
-    background: #ffffff!important;
-        }
+#PUV {
+  margin-bottom: 2em;
+}
+button#button-puv {
+  background-color: #7a918d;
+  color: #fff;
+}
+div#overlay {
+  opacity: 0.4;
+  background-color: #fff;
+}
+div.container a.navbar-brand {
+  color: #fff;
+}
+ul.navbar-nav.ml-auto li.nav-item a.nav-link {
+  color: #fff;
+}
+div.container a.navbar-brand:hover {
+  color: #7a918d;
+}
+ul.navbar-nav.ml-auto li.nav-item a.nav-link:hover {
+  color: #7a918d;
+}
+h3.v {
+  color: #7a918d;
+}
+h3.vr {
+  color: #7a918d;
+}
 .ftco-footer {
   font-size: 16px;
   padding: 2em 0;
