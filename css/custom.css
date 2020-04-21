@@ -32,9 +32,23 @@ div #imageRecyclage {
 #PUV {
   margin-bottom: 2em;
 }
-button#button-puv {
+button#button-puv, button#button-puv-2, button#button-offre {
   background-color: #7a918d;
   color: #fff;
+}
+input#submit-newsletter{
+  background-color: #7a918d!important;
+  color: #fff!important;
+  border-radius: 0px;
+}
+div.cta-button {
+  text-align: center;
+}
+#div-button-offre {
+  margin-top: 2em;
+}
+#vetements-text h3 {
+  text-align: center;
 }
 div#overlay {
   opacity: 0.4;
@@ -58,6 +72,67 @@ h3.v {
 h3.vr {
   color: #7a918d;
 }
+
+/* Nos vêtements */
+#nos-vetements {
+  background-color: #f8f9fa;
+  padding: 8em 0 4em 0;
+}
+#vetements-text {
+  margin-top: 3em;
+}
+/* Notre vision */
+#Notre-vision {
+  background-color: #f8f9fa;
+  padding-bottom: 0.1em!important;
+}
+#offre {
+  background-color: #f8f9fa;
+}
+#h2-offre {
+  margin-bottom: 0!important;
+  padding-bottom: 1em;
+}
+
+/* Extra small devices (phones, less than 768px) */
+/* No media query since this is the default in Bootstrap */
+
+/* Small devices (tablets, 768px and up) */
+@media (min-width: 700px) {
+  section #notre-vision {
+    margin: 1em 0;
+  }
+  #vision-text {
+    padding-top: 2em;
+  }
+ }
+
+/* Medium devices (desktops, 992px and up) */
+@media (min-width: 990px) {
+  #vision-text {
+    padding-top: 80em;
+
+  }
+ }
+
+/* Large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) {
+  #vision-text {
+    padding-top: 80em;
+  }
+ }
+#titre-cta {
+  margin-bottom: 1em;
+}
+section#offre.ftco-section {
+  padding-bottom: 0!important;
+}
+
+section#section-instagram {
+  background-color: #f8f9fa;
+}
+
+/* Footer */
 .ftco-footer {
   font-size: 16px;
   padding: 2em 0;
