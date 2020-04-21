@@ -128,6 +128,10 @@ section#offre.ftco-section {
   padding-bottom: 0!important;
 }
 
+section#section-instagram {
+  background-color: #f8f9fa;
+}
+
 /* Footer */
 .ftco-footer {
   font-size: 16px;
