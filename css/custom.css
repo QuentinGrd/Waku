@@ -15,12 +15,17 @@ Blanc : #ffffff
  #myVideo {
   max-width: 100%;
   height: auto;
+  margin-bottom: 3em;
 }
 #myVideoBis {
  max-width: 100%;
  height: auto;
- margin-top: 6em;
+ /* margin-top: 6em; */
 }
+#nos-vetements-title {
+  padding-bottom: 1em;
+}
+
 .ftco-counter, div.text strong.number, div.text span{
   color: #ffffff!important;
   font-weight: bold;
@@ -91,7 +96,8 @@ h3.vr {
 }
 #h2-offre {
   margin-bottom: 0!important;
-  padding-bottom: 1em;
+  padding-bottom: 2em;
+
 }
 #mb-4 {
   margin-bottom: 3em!important;
@@ -107,7 +113,8 @@ h3.vr {
     margin: 1em 0;
   }
   #vision-text {
-    padding-top: 2em;
+    /* padding-top: 2em; */
+    padding-bottom: 2em;
   }
  }
 
